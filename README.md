@@ -1,6 +1,6 @@
 # 个人简历模板
 
-[www.gkm0120.cn/aboutme](www.gkm0120.cn/aboutme/)
+[www.gkm0120.cn/aboutme](https://www.gkm0120.cn/aboutme/)
 
 ## Intro
 
