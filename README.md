@@ -1,6 +1,6 @@
 # 个人简历模板
 
-[http://gkm0120.gitee.io/resume](http://gkm0120.gitee.io/resume)
+[www.gkm0120.cn/aboutme](www.gkm0120.cn/aboutme/)
 
 ## Intro
 
